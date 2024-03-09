@@ -9,7 +9,7 @@ Powershell Script for automated addition of users from text file to Active Direc
 ![Screenshot 2024-03-09 140419](https://github.com/TylerGeragi/Powershell_Onboarding_New_Users/assets/112214738/04b2f31b-45c1-41cc-9410-2a0899951e5e)
 
 # In Active Directory - 'Users and Computers'
-    create an OU for new users "_USERS" for the new accounts to be assigned to
+    create an OU for new users titled "_USERS" for the new accounts to be imported to
 
 # Run Powershell script in reference to your text file
 
